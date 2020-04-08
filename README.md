@@ -10,13 +10,13 @@ Install [stylelint](https://stylelint.io/), [prettier](https://prettier.io/) and
 
 **With Yarn**
 
-```
+```sh
 $ yarn add --dev stylelint prettier @dre1080/stylelint-config
 ```
 
 **With npm**
 
-```
+```sh
 $ npm install stylelint prettier @dre1080/stylelint-config --save-dev
 ```
 
@@ -30,17 +30,8 @@ Within your [stylelint config object](http://stylelint.io/user-guide/configurati
 }
 ```
 
-Add a `.prettierrc` config file:
+Add a prettier config in `package.json`:
 
 ```json
-{
-  "arrowParens": "always",
-  "bracketSpacing": true,
-  "printWidth": 100,
-  "semi": true,
-  "singleQuote": true,
-  "tabWidth": 2,
-  "trailingComma": "all",
-  "useTabs": false
-}
+"prettier": "@dre1080/prettier-config"
 ```
