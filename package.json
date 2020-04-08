@@ -1,0 +1,27 @@
+{
+  "name": "@dre1080/stylelint-config",
+  "version": "1.0.0",
+  "description": "Sharable stylelint config used by dre1080",
+  "author": "Andrew Wayne <lifeandcoding@gmail.com>",
+  "homepage": "https://github.com/dre1080/stylelint-config",
+  "repository": "dre1080/stylelint-config",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "dre1080",
+    "tailwind",
+    "css",
+    "stylelint-config",
+    "stylelint"
+  ],
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-primer": "^9.0.0",
+    "stylelint-no-unsupported-browser-features": "^4.0.0",
+    "stylelint-order": "^4.0.0",
+    "stylelint-prettier": "^1.1.2"
+  },
+  "devDependencies": {
+    "stylelint": "^13.3.0"
+  }
+}
