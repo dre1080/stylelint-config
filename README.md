@@ -1,6 +1,6 @@
 # dre1080 Stylelint Config
 
-[![npm version](https://img.shields.io/npm/v/stylelint-config-primer.svg)](https://www.npmjs.org/package/stylelint-config-primer)
+[![npm (scoped)](https://img.shields.io/npm/v/@dre1080/stylelint-config)](https://www.npmjs.org/package/@dre1080/stylelint-config)
 
 > A sharable stylelint config object. Inspired by [stylelint-config-primer](https://github.com/primer/stylelint-config-primer).
 
@@ -9,11 +9,13 @@
 Install [stylelint](https://stylelint.io/), [prettier](https://prettier.io/) and `@dre1080/stylelint-config`:
 
 **With Yarn**
+
 ```
 $ yarn add --dev stylelint prettier @dre1080/stylelint-config
 ```
 
 **With npm**
+
 ```
 $ npm install stylelint prettier @dre1080/stylelint-config --save-dev
 ```
