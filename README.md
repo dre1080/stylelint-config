@@ -2,9 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/stylelint-config-primer.svg)](https://www.npmjs.org/package/stylelint-config-primer)
 
-> A sharable stylelint config object.
-
-> Inspired by [stylelint-config-primer](https://github.com/primer/stylelint-config-primer)
+> A sharable stylelint config object. Inspired by [stylelint-config-primer](https://github.com/primer/stylelint-config-primer).
 
 ## Install
 
