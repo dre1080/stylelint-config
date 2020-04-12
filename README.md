@@ -1,4 +1,4 @@
-# dre1080 Stylelint Config
+# stylelint-config
 
 [![npm (scoped)](https://img.shields.io/npm/v/@dre1080/stylelint-config)](https://www.npmjs.org/package/@dre1080/stylelint-config)
 
