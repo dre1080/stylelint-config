@@ -1,7 +1,7 @@
 {
   "name": "@dre1080/stylelint-config",
   "version": "1.0.0",
-  "description": "Sharable stylelint config used by dre1080",
+  "description": "Sharable stylelint config",
   "author": "Andrew Wayne <lifeandcoding@gmail.com>",
   "homepage": "https://github.com/dre1080/stylelint-config",
   "repository": "dre1080/stylelint-config",
@@ -14,6 +14,9 @@
     "stylelint-config",
     "stylelint"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-primer": "^9.0.0",
