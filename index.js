@@ -42,7 +42,7 @@ module.exports = {
     ],
     'declaration-block-no-shorthand-property-overrides': true,
     'declaration-block-single-line-max-declarations': 1,
-    'declaration-property-value-blacklist': {
+    'declaration-property-value-disallowed-list': {
       '/^transition/': ['/all/'],
       '/^background/': ['http:', 'https:'],
       '/^border/': ['none'],
