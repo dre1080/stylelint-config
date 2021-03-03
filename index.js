@@ -8,7 +8,6 @@ module.exports = {
     'stylelint-order',
   ],
   rules: {
-    'prettier/prettier': true,
     'at-rule-name-case': 'lower',
     'at-rule-no-unknown': [
       true,
