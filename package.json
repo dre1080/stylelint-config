@@ -1,6 +1,6 @@
 {
   "name": "@dre1080/stylelint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Sharable stylelint config",
   "author": "Andrew Wayne <lifeandcoding@gmail.com>",
   "homepage": "https://github.com/dre1080/stylelint-config",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "stylelint-config-prettier": "^8.0.1",
-    "stylelint-config-primer": "^9.0.0",
+    "stylelint-config-primer": "^11.0.0",
     "stylelint-no-unsupported-browser-features": "^4.0.0",
     "stylelint-order": "^4.0.0",
     "stylelint-prettier": "^1.1.2"
